@@ -12,15 +12,27 @@ Our mission is to transform advanced research into practical technologies throug
 
 ---
 
-## Research Areas
+## Scientific Foundations
+
+- Mathematics
+- Statistics
+- Physics
+- Optimization
+- Scientific Computing
+
+## Core Technologies
 
 - Artificial Intelligence
 - Machine Learning
-- Space Intelligence
-- Computational Finance
 - Data Science
-- Decision Intelligence
 
+## Research Domains
+
+- FinTech Intelligence
+- Space Intelligence
+- Energy Intelligence
+- Sports Intelligence
+  
 ---
 
 ## Projects
