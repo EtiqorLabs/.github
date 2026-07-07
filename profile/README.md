@@ -1,14 +1,14 @@
 # Etiqor Labs
 
-Building intelligent systems that create meaningful impact.
+Deep thinking. Real impact.
 
 ---
 
 ## About
 
-Etiqor Labs is an independent research and development organization focused on Artificial Intelligence, Machine Learning, Data Science, and Computational Intelligence.
+Etiqor Labs is an independent research and innovation lab.
 
-Our mission is to transform advanced research into practical technologies through open science, reproducible research, and impactful software.
+We explore complex problems, develop intelligent technologies, and build practical solutions that create lasting value.
 
 ---
 
@@ -17,14 +17,19 @@ Our mission is to transform advanced research into practical technologies throug
 - Mathematics
 - Statistics
 - Physics
-- Optimization
+- Optimisation
 - Scientific Computing
 
-## Core Technologies
+---
+
+## Computational Intelligence
 
 - Artificial Intelligence
 - Machine Learning
 - Data Science
+- Software Engineering
+
+---
 
 ## Research Domains
 
@@ -32,25 +37,10 @@ Our mission is to transform advanced research into practical technologies throug
 - Space Intelligence
 - Energy Intelligence
 - Sports Intelligence
-  
----
-
-## Projects
-
-### BursaBuddy
-
-Shariah-compliant AI-powered investment platform.
-
-### Helios AI
-
-Hybrid AI framework for Space Weather Forecasting.
+- Health Intelligence
 
 ---
 
 ## Philosophy
 
-Research First.
-
-Open Source.
-
-Real-world Impact.
+Research. Build. Impact.
